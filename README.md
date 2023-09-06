@@ -19,7 +19,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shay-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shay-zigdon-b80120288)
 
 ---
 
