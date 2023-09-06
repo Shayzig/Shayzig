@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/shay-zigdon-b80120288/)">
+  <a href="https://www.linkedin.com/in/shay-zigdon-b80120288">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
